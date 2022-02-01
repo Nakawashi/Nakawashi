@@ -7,7 +7,7 @@ Currently studying at 42 Lausanne School in Switzerland :switzerland:
   <!-- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nakawashi&count_private=true&show_icons=true&theme=solarized-light&icon_color=ffa0e0&text_color=383638"> -->
   
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img height="180cm" src="https://badge42.herokuapp.com/api/stats/lgenevey">
+    <img height="180cm" src="https://badge42.herokuapp.com/api/stats/lgenevey?darkmode=true&privacyEmail=true">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,3 +15,14 @@ Currently studying at 42 Lausanne School in Switzerland :switzerland:
   </a>
   
 </div>
+
+<!--
+## In progress . . .
+
+<div>
+  
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img height="50px" src="https://badge42.herokuapp.com/api/project/lgenevey/Born2beroot">
+  </a>
+</div>
+-->
